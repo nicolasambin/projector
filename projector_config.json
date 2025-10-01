@@ -11,10 +11,11 @@
                "sprite": {
               "imagePath": "https://raw.githubusercontent.com/nicolasambin/projector/refs/heads/main/companies_sprite.png",
               "singleImageDim": [
-                  100,
-                  100
+                  50,
+                  50
               ]
           }
       }
    ]
+
 }
