@@ -2,7 +2,7 @@
    "embeddings":[
       {
          "tensorName":"Companies",
-         "tensorShape":[2069, 200],
+         "tensorShape":[1032, 200],
          "tensorPath":"https://raw.githubusercontent.com/nicolasambin/projector/refs/heads/main/embeddings_200d.tsv", 
          "metadataPath":"https://raw.githubusercontent.com/nicolasambin/projector/refs/heads/main/metadata.tsv",
                "sprite": {
@@ -12,6 +12,7 @@
       }
    ]
 }
+
 
 
 
