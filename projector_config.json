@@ -7,11 +7,12 @@
          "metadataPath":"https://raw.githubusercontent.com/nicolasambin/projector/refs/heads/main/metadata.tsv",
                "sprite": {
                "imagePath": "https://raw.githubusercontent.com/nicolasambin/projector/refs/heads/main/companies_sprite.png",
-               "singleImageDim": [32, 32]
+               "singleImageDim": [64, 64]
           }
       }
    ]
 }
+
 
 
 
