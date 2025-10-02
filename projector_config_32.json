@@ -1,0 +1,14 @@
+{
+   "embeddings":[
+      {
+         "tensorName":"Companies",
+         "tensorShape":[2025, 200],
+         "tensorPath":"https://raw.githubusercontent.com/nicolasambin/projector/refs/heads/main/embeddings_200d.tsv", 
+         "metadataPath":"https://raw.githubusercontent.com/nicolasambin/projector/refs/heads/main/metadata.tsv",
+               "sprite": {
+               "imagePath": "https://raw.githubusercontent.com/nicolasambin/projector/refs/heads/main/companies_sprite_32.png",
+               "singleImageDim": [32, 32]
+          }
+      }
+   ]
+}
