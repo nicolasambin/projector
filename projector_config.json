@@ -2,16 +2,17 @@
    "embeddings":[
       {
          "tensorName":"Companies",
-         "tensorShape":[841, 200],
+         "tensorShape":[2025, 200],
          "tensorPath":"https://raw.githubusercontent.com/nicolasambin/projector/refs/heads/main/embeddings_200d.tsv", 
          "metadataPath":"https://raw.githubusercontent.com/nicolasambin/projector/refs/heads/main/metadata.tsv",
                "sprite": {
-               "imagePath": "https://raw.githubusercontent.com/nicolasambin/projector/refs/heads/main/companies_sprite.png",
+               "imagePath": "https://raw.githubusercontent.com/nicolasambin/projector/refs/heads/main/companies_sprite_64.png",
                "singleImageDim": [64, 64]
           }
       }
    ]
 }
+
 
 
 
